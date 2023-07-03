@@ -1,14 +1,37 @@
 .App {
   text-align: center;
+  padding: 20px;
+}
+
+.togglebutton {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-bottom: 20px;
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.foodtitle {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.ulapp {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.liapp {
+  margin-bottom: 10px;
+  font-size: 16px;
 }

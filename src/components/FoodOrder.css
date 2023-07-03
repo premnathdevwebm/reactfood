@@ -1,0 +1,69 @@
+/* FoodOrder.css */
+
+.selfoodtitle {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .foodimg {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+  }
+  
+  .ulFoodDetails {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .selFoodDesc {
+    margin: 0;
+  }
+  
+  .selFoodPrice {
+    margin: 0;
+    font-weight: bold;
+  }
+  
+  .selQuantity {
+    margin-bottom: 10px;
+  }
+  
+  .quantity {
+    width: 50px;
+    padding: 5px;
+  }
+  
+  .liDetails {
+    margin-bottom: 10px;
+  }
+  
+  .inputFields {
+    width: 100%;
+    padding: 5px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-size: 16px;
+  }
+  
+  .btnOrder {
+    background-color: green;
+    color: white;
+  }
+  
+  .btnReturnMenu {
+    background-color: blue;
+    color: white;
+  }
+  
+  .liMessage {
+    margin-top: 10px;
+    font-style: italic;
+    color: green;
+  }
+  
